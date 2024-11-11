@@ -1,0 +1,2 @@
+setuptools~=70.0.0
+yfinance~=0.2.49
